@@ -1,0 +1,24 @@
+{
+    "chat-list": [
+        {
+            "title": "109220-Naturalization",
+            "last_chat": {
+                "from": "Cameron Philips",
+                "text": "Please check this out"
+            },
+            "status": "UNREAD",
+            "date": "2021-01-01 19:10:00",
+            "type": "group"
+        },
+        {
+            "title": "Jeannete Moraima Guaman Chamba (Hutto I-589) [Hutto Follow Up - Brief Service]",
+            "last_chat": {
+                "from": "Ellen",
+                "text": "Hey, please read"
+            },
+            "status": "UNREAD",
+            "date": "2021-02-06 10:45:00",
+            "type": "group"
+        }
+    ]
+}
