@@ -16,9 +16,28 @@
                 "from": "Ellen",
                 "text": "Hey, please read"
             },
-            "status": "UNREAD",
+            "status": "READ",
             "date": "2021-02-06 10:45:00",
             "type": "group"
+        },
+        {
+            "title": "8405-Diana SALAZAR MUNGUIA",
+            "last_chat": {
+                "from": "Cameron Philips",
+                "text": "I understand your initial concerns and thats very valid, Elizabeth. But you need to calm down"
+            },
+            "status": "READ",
+            "date": "2021-01-06 10:45:00",
+            "type": "group"
+        },
+        {
+            "title": "FastVisa Support",
+            "last_chat": {
+                "text": "Hi there! Welcome to your inbox."
+            },
+            "status": "READ",
+            "date": "2021-01-06 10:45:00",
+            "type": "private"
         }
     ]
 }
