@@ -48,6 +48,7 @@
         {
             "id": 1,
             "title": "109220-Naturalization",
+            "particants": 3,
             "chats": [
                 {
                     "text": "Just Fill me in for his updates yea",
@@ -84,6 +85,7 @@
         {
             "id": 2,
             "title": "Jeannete Moraima Guaman Chamba (Hutto I-589) [Hutto Follow Up - Brief Service]",
+            "particants": 3,
             "chats": [
                 {
                     "text": "Just Fill me in for his updates yea",
@@ -120,6 +122,7 @@
         {
             "id": 3,
             "title": "8405-Diana SALAZAR MUNGUIA",
+            "particants": 3,
             "chats": [
                 {
                     "text": "Just Fill me in for his updates yea",
@@ -134,7 +137,8 @@
                 {
                     "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
                     "date":"2021-06-09 19:32:13",
-                    "from": "Mary Hilda"
+                    "from": "Mary Hilda",
+                    "particants": 3
                 },
                 {
                     "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary..",
