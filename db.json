@@ -43,5 +43,135 @@
             "date": "2021-01-06 10:45:00",
             "type": "private"
         }
+    ],
+    "conversation": [
+        {
+            "id": 1,
+            "title": "109220-Naturalization",
+            "particants": 3,
+            "chats": [
+                {
+                    "text": "Just Fill me in for his updates yea",
+                    "date":"2021-06-09 19:32:10",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "No worries it will be completed ASAP",
+                    "date":"2021-06-09 19:32:12",
+                    "from": "You"
+                },
+                {
+                    "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                    "date":"2021-06-09 19:32:13",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary..",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "You"
+                },
+                {
+                    "text": "Sure thing, Claren",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "Morning. I’ll try to do them. Thanks",
+                    "date":"2021-06-09 19:32:16",
+                    "from": "Obaidullah Amarkhil"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Jeannete Moraima Guaman Chamba (Hutto I-589) [Hutto Follow Up - Brief Service]",
+            "particants": 3,
+            "chats": [
+                {
+                    "text": "Just Fill me in for his updates yea",
+                    "date":"2021-06-09 19:32:10",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "No worries it will be completed ASAP",
+                    "date":"2021-06-09 19:32:12",
+                    "from": "You"
+                },
+                {
+                    "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                    "date":"2021-06-09 19:32:13",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary..",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "You"
+                },
+                {
+                    "text": "Sure thing, Claren",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "Morning. I’ll try to do them. Thanks",
+                    "date":"2021-06-09 19:32:16",
+                    "from": "Obaidullah Amarkhil"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "8405-Diana SALAZAR MUNGUIA",
+            "particants": 3,
+            "chats": [
+                {
+                    "text": "Just Fill me in for his updates yea",
+                    "date":"2021-06-09 19:32:10",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "No worries it will be completed ASAP",
+                    "date":"2021-06-09 19:32:12",
+                    "from": "You"
+                },
+                {
+                    "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                    "date":"2021-06-09 19:32:13",
+                    "from": "Mary Hilda",
+                    "particants": 3
+                },
+                {
+                    "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary..",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "You"
+                },
+                {
+                    "text": "Sure thing, Claren",
+                    "date":"2021-06-09 19:32:14",
+                    "from": "Mary Hilda"
+                },
+                {
+                    "text": "Morning. I’ll try to do them. Thanks",
+                    "date":"2021-06-09 19:32:16",
+                    "from": "Obaidullah Amarkhil"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "FastVisa Support",
+            "chats": [
+                {
+                    "text": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
+                    "date":"2021-06-09 19:32:10",
+                    "from": "FastVisa Support"
+                },
+                {
+                    "text": "Hi, I need help with something can you help me ?",
+                    "date":"2021-06-09 19:32:12",
+                    "from": "You"
+                }
+            ]
+        }
     ]
 }
