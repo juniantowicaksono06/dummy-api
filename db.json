@@ -195,11 +195,11 @@
 "task-list": [
     {
         "id": 1,
-        "taskName": "My Task"
+        "taskName": "Personal Errands"
     },
     {
         "id": 2,
-        "taskName": "Personal Errands"
+        "taskName": "Urgent To-Do"
     }
 ],
 "task-detail": [
