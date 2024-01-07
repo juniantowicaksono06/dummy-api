@@ -255,7 +255,8 @@
                 "description": "",
                 "date": "12/06/2021",
                 "daysLeft": 2,
-                "taskStatus": "NOT DONE"
+                "taskStatus": "NOT DONE",
+                "taskLabel": ["Important ASAP", "Offline Meeting"]
             },
             {
                 "id": 2,
